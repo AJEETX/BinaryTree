@@ -1,20 +1,10 @@
 ﻿using System;
-
-namespace Macship.Demo
+using BinaryTree.Core;
+namespace BinaryTree.Demo
 {
     class Program
     {
-        ITreeNode<IEmployee> rootNode;
-        ITreeNode<IEmployee> child11;
-        ITreeNode<IEmployee> child12;
-        ITreeNode<IEmployee> child13;
-        ITreeNode<IEmployee> child21;
-        ITreeNode<IEmployee> child22;
-        ITreeNode<IEmployee> child31;
-        ITreeNode<IEmployee> child41;
-        ITreeNode<IEmployee> child42;
-        ITreeNode<IEmployee> child51;
-        ITreeNode<IEmployee> child52;
+        ITreeNode<IEmployee> rootNode,child11,child12,child13,child21,child22,child31,child41,child42,child51,child52;
         static void Main(string[] args)
         {
             Program p = new Program();

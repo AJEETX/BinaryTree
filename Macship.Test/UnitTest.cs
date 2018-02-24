@@ -1,5 +1,5 @@
-﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using Macship.Demo;
+﻿using BinaryTree.Core;
+using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace Macship.Test
 {

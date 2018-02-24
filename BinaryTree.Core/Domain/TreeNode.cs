@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace Macship.Demo
+namespace BinaryTree.Core
 {
     public interface ITreeNode<T>
     {
