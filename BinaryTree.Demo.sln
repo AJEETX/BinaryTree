@@ -3,12 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2010
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryTree.Demo", "Macship.Demo\BinaryTree.Demo.csproj", "{93321008-0EC9-4A4E-AB20-9509F61FF756}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryTree.Demo", "BinaryTree.Demo\BinaryTree.Demo.csproj", "{93321008-0EC9-4A4E-AB20-9509F61FF756}"
 	ProjectSection(ProjectDependencies) = postProject
 		{59DD4AFD-1C7B-49FF-A92A-8AD039A40B81} = {59DD4AFD-1C7B-49FF-A92A-8AD039A40B81}
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryTree.Test", "Macship.Test\BinaryTree.Test.csproj", "{C049E865-DBA5-4CEE-AD52-B4C441F323C2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryTree.Test", "BinaryTree.Test\BinaryTree.Test.csproj", "{C049E865-DBA5-4CEE-AD52-B4C441F323C2}"
 	ProjectSection(ProjectDependencies) = postProject
 		{59DD4AFD-1C7B-49FF-A92A-8AD039A40B81} = {59DD4AFD-1C7B-49FF-A92A-8AD039A40B81}
 	EndProjectSection

@@ -1,7 +1,7 @@
 ﻿using BinaryTree.Core;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace Macship.Test
+namespace BinaryTree.Test
 {
     [TestClass]
     public class UnitTest
