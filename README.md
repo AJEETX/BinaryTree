@@ -4,7 +4,7 @@
 	
 | Release | Build | .Net  | Dependency |  
 | ---     | ---   | ---    | ---        |
-|![Wrapper](https://img.shields.io/badge/Binary-Tree-blue.svg) | [![Build Status](https://travis-ci.org/AJEETX/BinaryTree.png?branch=master&style=for-the-badge)](https://travis-ci.org/AJEETX/BinaryTree) | [![.Net Framework](https://img.shields.io/badge/DotNet-4.6.1-blue.svg?style=plastic)](https://www.microsoft.com/en-au/download/details.aspx?id=49981) | [![dependencies Status](https://img.shields.io/badge/dependency-none-brightgreen.svg?style=plastic)](https://img.shields.io/badge/dependency-none-brightgreen.svg) |
+|![Wrapper](https://img.shields.io/badge/BinaryTree-stable-brightgreen.svg) | [![Build Status](https://travis-ci.org/AJEETX/BinaryTree.png?branch=master&style=for-the-badge)](https://travis-ci.org/AJEETX/BinaryTree) | [![.Net Framework](https://img.shields.io/badge/DotNet-4.6.1-blue.svg?style=plastic)](https://www.microsoft.com/en-au/download/details.aspx?id=49981) | [![dependencies Status](https://img.shields.io/badge/dependency-none-brightgreen.svg?style=plastic)](https://img.shields.io/badge/dependency-none-brightgreen.svg) |
 
 ### Support or Contact
 
