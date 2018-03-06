@@ -1,4 +1,4 @@
-# BinaryTree ![GitHub release](https://img.shields.io/github/release/ajeetx/BinaryTree.svg?style=for-the-badge)![Maintenance](https://img.shields.io/maintenance/yes/2018.svg?style=for-the-badge)
+# BinaryTree ![GitHub release](https://img.shields.io/github/release/ajeetx/BinaryTree.svg?style=for-the-badge) ![Maintenance](https://img.shields.io/maintenance/yes/2018.svg?style=for-the-badge)
 
 | ![GitHub Release Date](https://img.shields.io/github/release-date/ajeetx/BinaryTree.svg?style=plastic) | ![Website](https://img.shields.io/website-stable-offline-green-red/http/ajeetx.github.io/BinaryTree.svg?label=status&style=plastic)|[![Build Status](https://travis-ci.org/AJEETX/BinaryTree.png?branch=master&style=for-the-badge)](https://travis-ci.org/AJEETX/BinaryTree)
 |  --- | ---     | ---   |
